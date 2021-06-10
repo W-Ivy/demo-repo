@@ -1,3 +1,3 @@
 # Demo
 
-Desribe the project!
+Describe the project!
